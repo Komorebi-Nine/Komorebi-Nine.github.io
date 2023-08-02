@@ -2,4 +2,4 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Komorebi-Nine's Blog
-description: 翻过一座山，你就高过一座山!
+description: 翻过一座山，你就高过一座山。
